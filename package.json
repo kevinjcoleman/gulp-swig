@@ -13,7 +13,7 @@
     "clone": "~0.1.9",
     "gulp-util": "~2.2.14",
     "swig": "kevinjcoleman/swig",
-    "gulp": "~3.5.1"
+    "gulp": "^4.0.0"
   },
   "main": "index.js",
   "engines": {
